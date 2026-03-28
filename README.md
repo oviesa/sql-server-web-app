@@ -145,16 +145,23 @@ Trusted_Connection=True;
 
 ## Screenshots
 
-(Add screenshots here)
+### Ticket List
+![Ticket List](screenshots/01-ticket-list.png)
 
-screenshots:
+### Create Ticket Form
+![Create Ticket](screenshots/02-create-ticket-form.png)
 
-Homepage  
-Create Ticket form  
-Ticket table  
-SQL Server table view  
-Query results  
-Schema diagram  
+### Edit Ticket
+![Edit Ticket](screenshots/03-edit-ticket.png)
+
+### Database Table
+![Database Table](screenshots/04-database-table.png)
+
+### Query Results
+![Query Results](screenshots/05-query-results.png)
+
+### Schema Diagram
+![Schema Diagram](docs/schema-diagram.png)
 
 ## Key Skills Demonstrated
 
